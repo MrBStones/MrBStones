@@ -9,6 +9,7 @@ waaaaaaaah
 ![SVG Image](scrunchesvgwhitewithbg.svg)
 ![SVG Image](scrunchesvgwithbg.svg)
 ![SVG Image](scrunchesvgwhitewithbg.svg)
+
 ![SVG Image](scrunchesvgwithbg.svg)
 ![SVG Image](scrunchesvgwhitewithbg.svg)
 ![SVG Image](scrunchesvgwithbg.svg)
@@ -16,6 +17,7 @@ waaaaaaaah
 ![SVG Image](scrunchesvgwithbg.svg)
 ![SVG Image](scrunchesvgwhitewithbg.svg)
 ![SVG Image](scrunchesvgwithbg.svg)
+
 ![SVG Image](scrunchesvgwhitewithbg.svg)
 ![SVG Image](scrunchesvgwithbg.svg)
 ![SVG Image](scrunchesvgwhitewithbg.svg)
